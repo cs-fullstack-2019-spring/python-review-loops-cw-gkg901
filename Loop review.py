@@ -20,6 +20,8 @@ def ex1():
 
         print(nums)
 
+# Write a Python program to count the number of even and odd numbers from a series of numbers.
+
 def ex2():
 
     runtotalEven = 0
@@ -37,6 +39,9 @@ def ex2():
     print("Number of odd numbers: " + str(runtotalOdd))
 
 
+
+
+# Write a Python program that accepts a sequence of lines (blank line to terminate) as input and prints the lines as output after User enters a blank line to end.
 
 def ex3():
 
